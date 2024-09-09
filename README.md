@@ -3,6 +3,7 @@
 **TASK**
 
 *Structure*
+```
 |- static/
 | |- style.css
 | |- logo.png
@@ -13,6 +14,7 @@
 |  |- message.html
 |  |_ error.html
 |_ main.py
+```
 
 ***main.py***
 
