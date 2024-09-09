@@ -1,0 +1,12 @@
+proiject_files/
+|
+|- static/
+| |- style.css
+| |- logo.png
+|- storage/
+|   |_ data.json
+|- templates/
+|  |- index.html
+|  |- message.html
+|  |_ error.html
+|_ main.py
